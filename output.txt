@@ -1,0 +1,5668 @@
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:33:35
+	time_modified: 2024-07-02 22:33:35
+	name: Hothead Infantry
+	casting_cost: W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		First Strike
+		Sacrifice Hothead Infantry to put a First Strike counter on target creature
+		Conjuration 1
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:33:40
+	time_modified: 2024-07-02 22:33:40
+	name: Mycotoxin Soldier
+	casting_cost: 1W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fungus</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Sporeborn
+		Toxic 1
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:00
+	time_modified: 2024-07-02 22:34:00
+	name: Elder Mycoloth
+	casting_cost: 5W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fungus</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		enters the battlefield with 5 +1/+1 counters
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 0
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Volatile Burster
+	casting_cost: 1W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fungus</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Sporeborn
+		
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Toxin Squad
+	casting_cost: 3W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fungus</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Sporeborn
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Formic Gatherer
+	casting_cost: W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Insect</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Flying
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Chitin Squire
+	casting_cost: W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Insect</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Armor 1
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Vitality Sprite
+	casting_cost: 1W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Lifelink
+		Flying
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Stag Knight
+	casting_cost: 2W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Insect</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en>Knight</word-list-class-en>
+	rarity: common
+	rule_text:
+		
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Armored Oathsworn
+	casting_cost: 1WW
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Insect</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en>Knight</word-list-class-en>
+	rarity: common
+	rule_text:
+		Armor 1
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Winged Oathsworn
+	casting_cost: 1WW
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Insect</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en>Knight</word-list-class-en>
+	rarity: common
+	rule_text:
+		Flying
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Disenchant
+	casting_cost: 1W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Destroy target artifact or enchantment
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Hive Guard
+	casting_cost: 1W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Insect</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en>Soldier</word-list-class-en>
+	rarity: common
+	rule_text:
+		
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Formic Squire
+	casting_cost: 1W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Insect</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en>Knight</word-list-class-en>
+	rarity: common
+	rule_text:
+		Flying
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Formic Strike
+	casting_cost: 2W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Create X 1/1 Insect Soldier tokens with Flying, where X is the number of attacking creatures
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Surprise Attack
+	casting_cost: 3W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Deal X+2 damage to target attacking or blocking creature, where X is the number of creatures you control.  This costs Y less, where Y is the greatest power among creatures you control
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Hymn of Endurance
+	casting_cost: W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Gain X life each of your upkeeps
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Restore Vitality
+	casting_cost: W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Prevent 3 damage or gain 3 life
+		Retrace
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Hive Herald
+	casting_cost: W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Insect</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Flying
+		Other Insects you control get +1/+1
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Spore Herald
+	casting_cost: W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fungus</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Sporeborn
+		Other Fungus creatures you control get +1/+1
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Rising Champion
+	casting_cost: 1W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Insect</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en>Knight</word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Multikicker W
+		For each time it is kicked, you may give Rising Champion an Absorb 1, Flying, or +1/+1 counter. Choose each one once
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Living Bog
+	casting_cost: W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Sacrifice Living Bog: PTE
+		Conjuration 2
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Bodyguard Beetle
+	casting_cost: 2W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Insect</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en>Knight</word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Flash
+		Armor 1
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Fertile Sporesower
+	casting_cost: 2W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fungus</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Sporeborn
+		When Fertile Sporesower enters the battlefield, return target creature with CMC <= 2 from your GY to the battlefield
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Soul Warden
+	casting_cost: W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en>Cleric</word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		When another creature enters the battlefield, gain 1 life
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Hive Lancer
+	casting_cost: WW
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Insect</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en>Knight</word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		First Strike
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Ascendant Champion
+	casting_cost: 3W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Insect</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en>Knight</word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Flying
+		Armor 1
+		Monstrous 3: 1W
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Hercules Knight
+	casting_cost: 4W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Insect</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en>Knight</word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Armor 1
+		First Strike
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Hymn of Serenity
+	casting_cost: 2W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		At the beginning of your precombat, choose target creature.  That creature cannot attack or block as long as Hymn of Serenity remains in play.  No more than X creatures can be chosen this way.
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Rampaging Goliath
+	casting_cost: 5WW
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Insect</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Armor 4
+		Rampaging Goliath must attack or block each turn if able
+	flavor_text: <i-flavor></i-flavor>
+	power: 6
+	toughness: 6
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Recumbent Bliss
+	casting_cost: 2W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-race-en>Aura</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Enchant creature
+Enchanted creature can't attack or block.
+At the beginning of your upkeep, you may gain 1 life.
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Hymn of Glory
+	casting_cost: 2WW
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Creatures you control get +X/+X
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Wise Logistician
+	casting_cost: 1W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Insect</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Flying
+		Counters cannot be placed on players or permanents
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Scales of Justice
+	casting_cost: 2W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		If an opponent has more lands, fetch a Plains. More creatures, make a 1/1 Insect Soldier. More life, gain 2 life
+		Retrace
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Rune-graven Oathsworn
+	casting_cost: 2W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Insect</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en>Knight</word-list-class-en>
+	rarity: rare
+	rule_text:
+		Monstrous 2: 2W
+		Monstrous 3: WW
+		When this becomes monstrous, if it has three +1/+1 counters on it, it becomes permanently goaded and cannot block. Put a flying counter and 2 Absorb 1 counters on it.  Otherwise it gains a First Strike, Flying, and Absorb 1 counter.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Martial Law
+	casting_cost: 2WW
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		blah blah blah
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Battle-hardened Knight
+	casting_cost: WWW
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Insect</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en>Knight</word-list-class-en>
+	rarity: rare
+	rule_text:
+		First Strike
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: General Khazgrakk
+	casting_cost: 3WW
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Insect</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en>Knight</word-list-class-en>
+	rarity: rare
+	rule_text:
+		Armor 2
+		On your turn, your opponents cannot cast spells or activate abilities
+		Sacrifice General Khazgrakk: Other creatures you control gain indestructible until EOT
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Royal Emissary
+	casting_cost: 2W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Insect</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en>Wizard</word-list-class-en>
+	rarity: rare
+	rule_text:
+		Flying
+		T: Untap target non-Wizard creature. If it is an Insect and it is your combat phase, there is an additional combat phase after this one.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Purifying Wind
+	casting_cost: 3WW
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Exile Purifying Wind: WoG
+		Conjuration 3
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Elder of Persistence
+	casting_cost: 2W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fungus</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Sporeborn
+		T: Proliferate or Evaporate
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Stone Guard
+	casting_cost: G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Sacrifice Stone Guard to put a +1/+1 counter on target creature. Conjuration 1
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Lash Vine
+	casting_cost: 1G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Plant</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Propagation
+		Rooted
+		Prevent the first source of damage Lash Vine would receive each turn
+		~ must be blocked if able
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Root Cluster
+	casting_cost: G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Plant</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Propagation
+		Rooted
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Shroomin Grunt
+	casting_cost: G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fungus</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Sporeborn
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Striving Sprite
+	casting_cost: 1G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Reach
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Chloroplastic Clone
+	casting_cost: G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Plant</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Chloroplastic Clone enters the battlefield as a copy of any token you control. It is a Green Plant
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 0
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Oaken Brawler
+	casting_cost: 2G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Treefolk</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Reach
+		Defender
+		Rooted
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Undergrowth Gang
+	casting_cost: 3G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fungus</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		When Undergrowth Gang dies, create 2 1/1 W Shroomin Tokens with Toxic 1. Sporeborn
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Pollenator Flower
+	casting_cost: 2G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Plant</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Propagation
+		Rooted
+		When Pollenator Flower attacks, put a -1/-1 counter on up to two target tapped creatures
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Aggressive Instinct
+	casting_cost: 1G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Target creature you control deals damage equal to its power to target creature you don't control.
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Weed Eater
+	casting_cost: 1G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Plant</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Propagation
+		Rooted
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Seedspitter
+	casting_cost: G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Plant</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Propagation
+		Rooted
+		When Seedspitter attacks, it deals 1 damage to target player
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Mitotic Growth
+	casting_cost: 2G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Make a copy of target creature token
+		Retrace
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Seed cannon
+	casting_cost: 1G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Plant</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Propagation
+		Rooted
+		Reach
+		When Seed cannon attacks, it deals 1 damage to target creature or player
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Aether Vine
+	casting_cost: 1G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Plant</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Propagation
+		Rooted
+		When Aether Vine enters the battlefield, destroy target Artifact or Enchantment
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Chant of Growth
+	casting_cost: G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		At the beginning of combat, give target creature +X/+X
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Treant Linebreaker
+	casting_cost: 4GG
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Treefolk</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Trample
+	flavor_text: <i-flavor></i-flavor>
+	power: 6
+	toughness: 6
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Growth Herald
+	casting_cost: G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Plant</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Rooted
+		Other Plants you control get +1/+1
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Elder of Hope
+	casting_cost: 2G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fungus</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Sporeborn
+		T: Look at the top card of your library, if it is a Shroomin, you may suspend it with 3 counters
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Fungal Cleanser
+	casting_cost: 1G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fungus</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Sporeborn
+		When Fungal Cleanser enters the battlefield, you may destroy an artifact or enchantment
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Deepvine Connection
+	casting_cost: 2G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Pay 1 life: Prevent the next 1 damage that would be dealt to target creature you control
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Earthen Wisdom
+	casting_cost: 2GG
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Draw a card for each green creature card you control
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Seed Cannon
+	casting_cost: 2G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Plant</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Propagation
+		Rooted
+		When Seed Cannon attacks, it deals 1 damage to any target. You may put a stun counter on it. If you do, it gains Deathtouch until EOT
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Shroomin Harvester
+	casting_cost: 1GG
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fungus</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Sporeborn
+		When Shroomin Harvester enters the battlefield, return a card from your graveyard to your hand
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Hurricane Spirit
+	casting_cost: 2G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Reach
+		Exile Hurricane Spirit: Rabid Bite
+		Conjuration 2
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 4
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Nascent Treant
+	casting_cost: G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Treefolk</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		When a you create a creature token, put a +1/+1 counter on Nascent Treant
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Fungal Decomposition
+	casting_cost: 1G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Destroy target artifact or enchantment
+		Retrace
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Ground Bloom
+	casting_cost: 1G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		As an additional cost to cast Ground Bloom, return X lands you control to their owner's hand.  Create a copy of target creature token you control.  Repeat this X times, then an additional time for each of those lands that was untapped
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Root Mitigation
+	casting_cost: G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Regenerate target creature
+		Retrace
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Chant of Dedication
+	casting_cost: 2G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		At the beginning of combat, up to X creatures Regenerate
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Elder of Wisdom
+	casting_cost: 2G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fungus</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Sporeborn
+		When Elder of Wisdom enters the battlefield, draw a card
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Greedy Chloroplast
+	casting_cost: G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Plant</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Propagation
+		Rooted
+		When Greedy Chloroplast attacks, put a +1/+1 counter on target Plant you control
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Mycoloth
+	casting_cost: 5G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fungus</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		When Mycoloth takes damage, for every 2 damage, create that many 1/1 W Shroomin tokens with Toxic 1 and Wither
+		enters the battlefield with 6 +1/+1 counters
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 0
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Overgrown Cluster
+	casting_cost: 1GG
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Plant</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Propagation
+		At the end of your turn, gain a life for each plant you control
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Fungal Behemoth
+	casting_cost: 3G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fungus</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		blah blah blah
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Surge of Growth
+	casting_cost: 3G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Create a tapped copy of each creature token you control
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Fungal Colony
+	casting_cost: XG
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fungus</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		enters the battlefield with w +1/+1 counters
+		Remove a +1/+1 counter to create a 1/1 W Shroomin Tokens with Toxic 1. Activate only as a sorcery
+		Defender
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 0
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Chant of Savagery
+	casting_cost: 3G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		At the beginning of combat, put X +1/+1 counters on target creature
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Galeforce Elemental
+	casting_cost: 3GG
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Exile Galeforce Elemental: CoCo
+		Conjuration 3
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Master Root Hub
+	casting_cost: GGG
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Plant</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Tap 3 untapped Plants you control: Draw a card
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 5
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Highbough Strategist
+	casting_cost: 2GG
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Treefolk</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Reach
+		Rooted
+		Sacrifice a Plant token: Regenerate target Plant
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Aria of Readiness
+	casting_cost: U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Each of your upkeeps, scry X
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Turn Back the Clock
+	casting_cost: 1U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Evaporate
+		Retrace
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Clockspinning
+	casting_cost: U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Buyback
+		Choose a counter on target permanent or suspended card. Remove that counter from that permanent or card or put another of those counters on it.
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Cancel
+	casting_cost: 1UU
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Counter target spell
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Winged Ghoul
+	casting_cost: 2U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Flying
+		Fleshcraft 1U
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Recursive Logic
+	casting_cost: U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Draw a card. Exile Recursive Logic with 3 Time counters and it gains suspend
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Cowardice Sprite
+	casting_cost: 1U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Flying
+		0: Untap Cowardice Sprite and remove it from combat
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Armament Gatherer
+	casting_cost: U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		At the beginning of your upkeep, Scry X where X is the amount of equipment attached to creatures you control plus the amount of auras enchanting creatures you control
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Ephemeral Force
+	casting_cost: 4U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Wizard</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		enters the battlefield with 4 fade counter on it. When the last is removed, sacrifice Ephemeral Force
+	flavor_text: <i-flavor></i-flavor>
+	power: 6
+	toughness: 6
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Repeated Failure
+	casting_cost: 3UU
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Counter target spell
+		Retrace
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Mesmerize
+	casting_cost: 1U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Tap and distribute 2 Stun counters among up to 2 target creatures
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Mesmeric Walker
+	casting_cost: 1U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Fleshcraft U
+		When Mesmeric Walker fleshcrafts, tap target creature and put a stun counter on it
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Finned Colossus
+	casting_cost: 4UU
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		When Finned Colossus attacks, unless the defending player controls an Island, put a stun counter on ~
+	flavor_text: <i-flavor></i-flavor>
+	power: 6
+	toughness: 6
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Reverse Time
+	casting_cost: 1UU
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Counter target spell
+		Evaporate
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Second Stutter
+	casting_cost: U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		As an additional cost to cast Second Stutter, return X lands you control to your hand
+		Counter target spell unless its control pays 1 + X
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Syncopate
+	casting_cost: XU
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Counter target spell unless its controller pays X. If it is countered this way, exile it
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Temporary Blindness
+	casting_cost: U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Target creature gets -2/-0
+		Retrace
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Time to Think
+	casting_cost: U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Put a stun counter on X creatures you control.  Scry X, then draw a card
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Breeze Mephit
+	casting_cost: U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Flying
+		Exile Breeze Mephit: Put a flying counter on target creature
+		Conjuration 1
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Moment to Think
+	casting_cost: 1U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		As an additional cost to cast Moment to Think, return a land you control to your hand
+		Draw 2 cards
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Blinking Shade
+	casting_cost: 1U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Wizard</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Unblockable
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Disruptive chronomage
+	casting_cost: U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Wizard</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		T: Tap target creature
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Paradox Haze
+	casting_cost: 2U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		You get an additional Upkeep
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Foul Transmogrifant
+	casting_cost: 2U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Fleshcraft 1U
+		The first time Foul Transmogrifant is the target of a spell or ability an opponent controls each turn, counter that spell or ability
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Brain Crawler
+	casting_cost: 3U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Fleshcraft 2U
+		When Brain Crawler deals combat damage to a player, draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Storm Elemental
+	casting_cost: 1UU
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Exile Storm Elemental: Counter target spell
+		Conjuration 2
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Herald of Fate
+	casting_cost: U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Wizard</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Other Wizards and Avatars you control get +1/+1
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Withered Wisdom
+	casting_cost: 2U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		For each -1/-1 counter on creatures you control, and each poison counter on you, target player draws a card
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Fading Chronomancer
+	casting_cost: U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Wizard</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		4UU, T, Sacrifice Fading Chronomancer: End the turn
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Reality Strobe
+	casting_cost: U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Return target permanent to its owner's hand. Exile Reality Strobe with three time counters on it.
+
+Suspend 3—2U
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Timespace Assassin
+	casting_cost: 1U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Wizard</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		When a time counter is added to or removed from a spell you control, this gets +1/+1 until EOT for each counter.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Aria of Sloth
+	casting_cost: 2U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		At the beginning of your precombat, tap up to X creatures and put a stun counter on them.
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Time Stop
+	casting_cost: 4UU
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		End the turn
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Knowledge Seeker
+	casting_cost: 1U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Knowledge Seeker gets +1/+1 for each spell, permanent, or card with a time counter on it
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Phantasmal Image
+	casting_cost: 1U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Illusion</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		blah blah
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 0
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Sweatsoaked Sentry
+	casting_cost: U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Fleshcraft 2U
+		Hexproof
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Aeon Chronicler
+	casting_cost: 3UU
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		blah blah
+	flavor_text: <i-flavor></i-flavor>
+	power: *
+	toughness: *
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Mistborn Army
+	casting_cost: 0
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Suspend XU
+		When a time counter is removed from Mistborn Army, create a 1/1 Wizard Illusion token with '~ gets +1/+0 for each other Wizard Illusion token'
+		Exile all Wizard Illusion tokens you control
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Shadow of the Wanderer
+	casting_cost: 3U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Wizard</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en>Avatar</word-list-class-en>
+	rarity: rare
+	rule_text:
+		When casting a spell from somewhere other than your hand, copy it. Tokens sac at EOT
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 4
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Dream Puppeteer
+	casting_cost: 3UU
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Unblockable
+		Exile Dream Puppeteer: Mind Control
+		Conjuration 3
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 4
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Aria of Decadence
+	casting_cost: 3U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		At the beginning of your upkeep, draw X, then discard a card
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Ichor-dripper
+	casting_cost: 1B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fungus</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Sporeborn
+		Deathtouch
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Venomous Crawler
+	casting_cost: B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Deathtouch
+		Fleshcraft 0
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Maim
+	casting_cost: B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Put 2 -1/-1 counters spread among up to two target creatures
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Corruption Creeper
+	casting_cost: 2B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Wall-mounted Horror
+	casting_cost: 1B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Defender
+		B: Regenerate
+		When Wall-mounted Horror is Fleshcrafted, it loses Defender
+		Fleshcraft B
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Corpse Collector
+	casting_cost: 1B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Worm</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Burrow
+		When another creature dies, gain 1 life
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Sacrificial Sprite
+	casting_cost: 1B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Sacrifice Sacrificial Sprite: Target player sacrifices a creature
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Mayhem's Wake
+	casting_cost: B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		As an additional cost to cast Mayhem's Wake, delve X. Place X -1/-1 counters spread among up to X target creatures
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Lurching Colossus
+	casting_cost: 5B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Fleshcraft 3B
+	flavor_text: <i-flavor></i-flavor>
+	power: 6
+	toughness: 6
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Devour Flesh
+	casting_cost: 1B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		blah blah
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Innocent Blood
+	casting_cost: B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Each player sacrifices a creature
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Torrential Spirit
+	casting_cost: B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Intimidate
+		Exile Torrential Spirit: Put an Intimidate counter on target creature
+		Conjuration 1
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Till the Soil
+	casting_cost: B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Exile target card from a graveyard
+		Retrace
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Mending Monstrosity
+	casting_cost: B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		B: Regenerate
+		Fleshcraft 0
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Poison Creeper
+	casting_cost: 3B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Plant</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Deathtouch
+		Propagation
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Dirge of Squalor
+	casting_cost: B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Each of your upkeeps,  remove up to X counters
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Chain Devolution
+	casting_cost: XB
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		As an additional cost, you may sacrifice any number of creatures. If you do, create a copy for each sacrificed creature. These copies may select different targets
+		Target creature gets -X/-X until EOT.
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Go for the Throat
+	casting_cost: 1B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Destroy target non-artifact creature
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Murder
+	casting_cost: 1BB
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Destroy target creature
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Rotgorger
+	casting_cost: B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fungus</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Sporeborn - Exile a card from an opponent's GY
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Howling Wind
+	casting_cost: 1B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Exile Howling Wind: Doom Blade
+		Conjuration 2
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Gorging Golem
+	casting_cost: 2B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		B: Gorging Golem gets +1/+1 until EOT
+		Fleshcraft 1B
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Herald of Flesh
+	casting_cost: B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Humans you control get +1/+1
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Elder of Wrath
+	casting_cost: 2B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fungus</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Sporeborn
+		1B: Put a -1/-1 counter on a creature
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Thirsting Wretch
+	casting_cost: 3B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Fleshcraft 1B
+		Lifelink
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Cackling Fleshcrafter
+	casting_cost: 1B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en>Cleric</word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Whenever you Fleshcraft, put a +1/+1 counter on the creature
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Dirge of Decay
+	casting_cost: 2B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		At the beginning of your upkeep, place up to X -1/-1 counters
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Chitin Herald
+	casting_cost: B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Worm</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Armor 1
+		Burrow
+		Suspend 2: 0
+		Other Worms you control get +0/+1
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Spinal Armorcrawler
+	casting_cost: 1B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Fleshcraft 2B
+		If Spinal Armorcrawler would die, and is fleshcrafted, you may remove this card from the game instead
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Uterine Mass
+	casting_cost: 3B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Fleshcraft 2B
+		At the beginning of your upkeep, make a 0/1 colorless Flesh pile creature token
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 4
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Shambling Mycoloth
+	casting_cost: 3B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fungus</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Sporeborn
+		Deathtouch
+		Shambling Mycoloth can block an additional creature
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 4
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Poison Talons
+	casting_cost: B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Target creature gets Deathtouch until EOT
+		Retrace
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Dirge of Greed
+	casting_cost: 3B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		At the beginning of your upkeep, pay X life and draw X cards
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Exiled Freeblade
+	casting_cost: 2BB
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Insect</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en>Knight</word-list-class-en>
+	rarity: rare
+	rule_text:
+		Armor 2
+		Whenever a creature card dies, you pay pay 1 life. If you do, draw a card
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Profane Ritual
+	casting_cost: 1BB
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		At the beginning of your upkeep, each player sacrifices a creature. For each player who can't you lose a life
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Cruel Accountant
+	casting_cost: 3B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Worm</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Armor 1
+		Burrow
+		Suspend 2R
+		Pay 1 life: Remove a Time counter from a suspended spell you control
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Corpsedrinker Roots
+	casting_cost: 2B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Plant</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Propagation
+		When a creature token dies, put a +1/+1 counter on Corpsedrinker Roots
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Deathcloud Fungus
+	casting_cost: 1BB
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fungus</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Sporeborn
+		When a creature an opponent controls dies, create a 1/1 Green Fungus creature token for each -1/-1 counter on it
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Gravesoil Elemental
+	casting_cost: 3BB
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Exile Gravesoil Elemental: Return target creature from a graveyard to play under your control
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Romulus
+	casting_cost: B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		0: Romulus's base P/T become 1/1 and it loses any other abilities gained through this ability. Then you may change its base P/T to 3/3, or you may give it flying, vigilance, lifelink, first strike, or deathtouch. Activate this ability only if you control a Human Cleric. This costs 1 more for each prior time it was used this phase
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Blood, Sweat, and Tears
+	casting_cost: 1B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Pay 4 life: Proliferate
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Adrenaline Rush
+	casting_cost: R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Target creature gets +2/+0 and haste until EOT
+		Retrace
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Tunnel Mite
+	casting_cost: R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Pest</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Armor 1
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Growth Hormones
+	casting_cost: 1R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Target creature gets +1/+0 and first strike until EOT
+		Retrace
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Periodic Fervor
+	casting_cost: 2R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Creatures you control get +1/+0 until EOT. Remove Periodic Fervor from the game with 3 Time counters on it. It gains suspend
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Vitriolic Sprite
+	casting_cost: 1R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Sacrifice Vitriolic Sprite: Deal 2 damage to target creature
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Arcane Explosion
+	casting_cost: R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Sacrifice X Elemental creatures as you cast Arcane Explosion.  ~ deals 2 + the number of creatures to any target
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Hatchling Apprentice
+	casting_cost: R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Worm</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Burrow
+		Suspend 2: 0
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Spitting Fleshhound
+	casting_cost: 1R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		First Strike
+		Fleshcraft R
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Spark Mephit
+	casting_cost: R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Haste
+		Exile Spark Mephit: Put a Haste counter on target creature
+		Conjuration 1
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Bruiser Apprentice
+	casting_cost: 1R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Worm</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Armor 1
+		Suspend 3: 0
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Morlock Mercenary
+	casting_cost: 2R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Worm</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Armor 1
+		Burrow
+		Suspend R
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Tunnel Mite Swarm
+	casting_cost: 2R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Pest</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Tunnel Mite Swarm has haste if you control a Morlock creature
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Battaglia of Focus
+	casting_cost: R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		At the beginning of combat, give up to X target creatures +1/+0 and Haste
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Ash Geyser
+	casting_cost: 2R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Deal 2 damage to any target
+		Retrace
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Violence Sprite
+	casting_cost: R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Burrow
+		Sacrifice Violence Sprite: Deal 1 damage to any target
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Explosive Evolution
+	casting_cost: 2R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Sacrifice a creature: Deal X damage to any target, where X is its power. Activate only as a sorcery
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Suicidal Charge
+	casting_cost: 1R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Creatures you control get +2/+0 until EOT
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Charging Chronomancer
+	casting_cost: R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Knight</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en>Avatar</word-list-class-en>
+	rarity: common
+	rule_text:
+		Haste
+		Whenever a time counter is added or removed, Charging Chronomancer gets +1/+1 until EOT
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Cunning Cruelty
+	casting_cost: 1R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Wither
+		Noncombat damage sources have Wither
+		Sacrifice Cunning Cruelty: Deal 1 damage to any target
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Recurring Flames
+	casting_cost: 3R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Deal 2 damage to any target
+		Remove this from the game with 3 time counters. It gains suspend
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Turn to Ash
+	casting_cost: 2R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Deal 3 damage divided as you choose among 1, 2, or 3 targets.  Creatures dealt damage this way cannot regenerate this turn
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Lightning Rider
+	casting_cost: 1R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Exile Lightning Rider: Lightning Bolt
+		Conjuration 2
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Morlock Raider
+	casting_cost: R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Worm</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Armor 1
+		Haste
+		Burrow
+		Suspend 2: 0
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Morlock Bruiser
+	casting_cost: 2R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Worm</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Armor 1
+		Burrow
+		Suspend 3: R
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Acid-Drenched Golem
+	casting_cost: 2R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Fleshcraft 1R
+		Damage dealt by Acid-Drenched Golem cannot be prevented
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Herald of the Claw
+	casting_cost: R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Worm</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Armor 1
+		Burrow
+		Suspend 2: 0
+		Other Worms you control get +1/+0
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Morlock Marauder
+	casting_cost: 2R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Worm</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Armor 2
+		Burrow
+		Suspend 3: R
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Morlock Assassin
+	casting_cost: 3R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Worm</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Armor 1
+		First Strike
+		Burrow
+		Suspend 3: 0
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Pyroclasm
+	casting_cost: 1R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Deal 2 damage to each creature
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Wormspawn Matriarch
+	casting_cost: 1R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Worm</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Armor 1
+		When acreature dealt damage this turn by an attacking creature you control dies, make a 2/1 red Worm creature token
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Tunnel Sapper
+	casting_cost: 2R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Worm</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Armor 1
+		Burrow
+		Suspend 3: R
+		When a time counter is removed from Tunnel Sapper, you may make a Mine artifact token with 'When a creature enters the battlefield, you may sacrifice this and deal 1 damage to it'
+		T: Ping 1
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Battaglia of Excitement
+	casting_cost: 2R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		At the beginning of your upkeep, look at the top X cards of your library. You may pick a card, exile if face down and play it until the end of your next turn
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Excavator
+	casting_cost: 3R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Worm</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Armor 3
+		T, X: Make X 1/1 Tunnel Mite Tokens
+		Tunnel Mites you control have haste
+		Burrow
+		Suspend 5: R
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Daggerfang Breachslicer
+	casting_cost: R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Worm</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Burrow
+		Unblockable
+		When Daggerfang Breachslicer becomes the target of a spell, Suspend it with 3 time counters
+		When ~ enters the battlefield, deal 1 damage to any target.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: War Profiteering
+	casting_cost: R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		When a creature dies, creature a treasure token and put a counter on War Profiteering
+		Sacrifice ~: Exile the top X cards of your library, where X is the number of counters on ~. Until the end of your next turn, you may play those cards.  Shuffle any unplayed cards into your library
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Heinrich the Feral
+	casting_cost: XR
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en>Cleric</word-list-class-en>
+	rarity: rare
+	rule_text:
+		Heinrich enters the battlefield with X +1/+1 counters
+		Exile a non-Cleric Human you control: Put X +1/+1 counters on Heinrich the Feral where X is the exiled creature's Power.  Fleshcraft that creature beneath ~. Use only as a sorcery
+		T, Remove X +1/+1 counters from ~: You may return a card Fleshcrafted onto ~ with Power X or less to the battlefield. If you don't, create an X/X Human creature token
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Anger of the Gods
+	casting_cost: 1RR
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Deal 3 damage to all creatures. Creatures that die this way are exiled
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Smiling Hydra
+	casting_cost: 3R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Double Strike
+		Fleshcraft 2R
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Raid Master Panshir
+	casting_cost: 2R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Worm</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Armor 1
+		Burrow
+		Suspend 3: R
+		You may pay 0 for the Suspend costs for Worms spells you control
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Anvilflame Elemental
+	casting_cost: 3RR
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Exile Anvilflame Elemental: Exile your hand. Each other player discards their hand. Each player draws 7. Until the end of your next turn, you may play any of the cards exiled from your hand this way. At the end of your next turn, send them from exile to the GY
+		Conjuration 3
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Battaglia of Destruction
+	casting_cost: 1RR
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		At the beginning of your upkeep, deal X damage to any target
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Shroomin Grunt
+	casting_cost: G/W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fungus</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Sporeborn
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Fresh-spawned Sporeling
+	casting_cost: 0
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fungus</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Sporeborn
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Return to Form
+	casting_cost: 1U/W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Remove all counters from any number of target permanents
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Shroomin Combatant
+	casting_cost: 1G/W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fungus</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Sporeborn
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Aether Herald
+	casting_cost: X
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Aether Herald is each color of mana that was spent to cast it
+		Other Elementals you control get +1/+1 for each color they share with ~. ~ enters the battlefield with half X +1/+1 counters on it, rounded down
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Cunning Captain
+	casting_cost: 1G/B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fungus</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Sporeborn
+		Shroomin you control have Wither
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Sporeburster
+	casting_cost: GW
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fungus</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Sporeborn
+		Toxic 1
+		Wither
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Drodo, Unififying Dhaman
+	casting_cost: GW
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fungus</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en>Legendary Shaman</word-list-class-en>
+	rarity: rare
+	rule_text:
+		Sporeborn
+		T: Evaporate or proliferate
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Shroomin Hydra
+	casting_cost: 2G/W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fungus</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Sporeborn
+		Toxic 1
+		Shroomin Hydra has 2 time counters instead of 3 when suspended
+		When ~ enters the battlefield and wasn't cast from your hand, make a copy of it
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Veteran Assassin
+	casting_cost: 1RB
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Worm</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Double Strike
+		Deathtouch
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Emperor Al'Khazul
+	casting_cost: 2(2/W)B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en>Cleric</word-list-class-en>
+	rarity: rare
+	rule_text:
+		T: Until EOT, you may Fleshcraft target Human creature card from your graveyard. If you do, it enters the battlefield with a Finality counter on it
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Arcanum of Singularity
+	casting_cost: 3
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Spend only colored mana to cast Arcanum of Singularity
+		~'s P/T are equal to the number of different names among lands you control
+		~ is all colors
+		Elemental spells you cast cost WUBRG less
+	flavor_text: <i-flavor></i-flavor>
+	power: *
+	toughness: *
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Call the Skybreaker
+	casting_cost: 5 R/U R/U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Create a 5/5 blue and red Elemental creature token with flying
+		Retrace
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Undergrowth Knight
+	casting_cost: 2GW
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fungus</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Sporeborn
+		When a counter is added to or removed from a permanent, put a +1/+1 counter on Undergrowth Knight
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Shambling Statue
+	casting_cost: 2
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Aetherborder Outpost
+	casting_cost: 
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		When Aetherborder Outpost enters the battlefield, choose a color
+		T: Add a mana of the color
+		2,T: Choose target (color) creature, add a counter of a type it already has
+		2,T: Choose  target creature not (color) and remove a counter from it
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Lava Greaves
+	casting_cost: 0
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-race-en>Equipment</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Equipped creature gets +2/+1
+		Equip: Return a land to your hand
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Terramorphic Expanse
+	casting_cost: 
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		blah blah
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Physiological Augmentation
+	casting_cost: 3
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Put 2 +1/+1 counters on target creature. It gaings Vigilance until eot
+		Retrace
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Flesh Pile
+	casting_cost: 0
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Fleshcraft 0
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Greatsword
+	casting_cost: 3
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-race-en>Equipment</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Equipped Creature gets +2/+0 and its damage cannot be prevented. Creatures dealt damage by equipped creature cannot regenerate this turn
+		Equip 2
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Warspear
+	casting_cost: 3
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-race-en>Equipment</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Equipped creature gets +2/+0 and First Strike
+		Equip 2
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Maul
+	casting_cost: 3
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-race-en>Equipment</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Equipped creature gets +2/+0 and Trample
+		Equip 2
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Carapace Plate
+	casting_cost: 2
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-race-en>Equipment</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Equipped creature gets +0+1 and Armor 1 Equip 2
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Oil Coating
+	casting_cost: 2
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		Oil Coating enters the battlefield with 3 charge counters on it
+		T, remove a charge counter: Until EOT, any creature dealt damage by target creature is exiled instead of killed
+		When the last charge counter is removed from ~, draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Curious Carving
+	casting_cost: 1
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Sacrifice Curious Carving: Shuffle all cards removed from the game into their owner's libraries
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Epochrasite
+	casting_cost: 2
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Construct</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Epochrasite enters the battlefield with three +1/+1 counters on it if you didn't cast it from your hand.
+
+When Epochrasite dies, exile it with three time counters on it and it gains suspend.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Adaptive Ghoul
+	casting_cost: 2
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		When Adaptive Ghoul fleshcrafts, put a +1/+1 counter on it
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Broken Clock
+	casting_cost: 1
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		At the start of each player's turn, you may choose to have them skip all of their Upkeep steps
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Crucible of Worlds
+	casting_cost: 3
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		You may play lands out of your graveyard
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Alter of Infusion
+	casting_cost: 5
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		T, X: Exile target creature from a graveyard with CMC X.  Create an X/X Worm creature token
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Solemn Cemetary
+	casting_cost: 
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		T: Add a ©
+		T, exile a card from your graveyard: Add a mana of any color. If that card was a land, gain 2 life. If it was a creature, put a +1/+1 counter on a creature you control.  If it was an instant or sorcery, draw a card
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+
+card:
+	has_styling: false
+	notes: 
+	time_created: 2024-07-02 22:34:03
+	time_modified: 2024-07-02 22:34:03
+	name: Paradox Rift
+	casting_cost: 
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		T: Add a ©
+		T, return a land to your hand: Add a mana of any color
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
